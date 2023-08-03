@@ -6,9 +6,8 @@
 <h3 align="left"> Hi there, I'm Alejandra Yepes, welcome to my profile! </h3>
 
 👩🏻‍💻 I'm a software dev with passion for front end development<br/>
-💠 Data enthusiast (hopefully more in the future)<br/>
 🧠 Avid learner<br/>
-👽 I love anything space and AI related<br/>
+👽 I love anything space related<br/>
 
 #### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mayepesa&theme=dark&background=000000)](https://git.io/streak-stats)
