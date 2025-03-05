@@ -5,7 +5,7 @@
 
 <h3 align="left"> Hi there, I'm Alejandra Yepes, welcome to my profile! </h3>
 
-👩🏻‍💻 I'm a software engineer with experience in fullstack development<br/>
+👩🏻‍💻 Software engineer<br/>
 🧠 Avid learner<br/>
 👽 I love anything space related<br/>
 
